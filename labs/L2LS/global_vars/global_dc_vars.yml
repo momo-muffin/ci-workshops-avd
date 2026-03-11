@@ -66,3 +66,7 @@ custom_structured_configuration_banners:
     You shall not pass. Unless you are authorized. Then you shall pass.
     EOF
 
+banners:
+  motd: |
+    You shall not pass. Unless you are authorized. Then you shall pass sans prefix.
+    EOF
